@@ -147,7 +147,7 @@ Create AoT builds for deployment to App Store and Google Play.
 
 ```
 Android:   npm run build.android
-iOS:       npm run build.ios
+iOS:       gem install xcodeproj && npm run build.ios
 ```
 
 ## Desktop app
