@@ -6,6 +6,9 @@
 [![Dependency Status](https://david-dm.org/NathanWalker/angular-seed-advanced.svg)](https://david-dm.org/NathanWalker/angular-seed-advanced)
 [![devDependency Status](https://david-dm.org/NathanWalker/angular-seed-advanced/dev-status.svg)](https://david-dm.org/NathanWalker/angular-seed-advanced#info=devDependencies)
 
+<a href="https://play.google.com/store/apps/details?id=angular.seed.advanced"><img src="https://raw.githubusercontent.com/marcelmaatkamp/angular-seed-advanced/master/.github/angular_seed_android.png" width="250" ></a><br />
+The Android application can be found on https://play.google.com/store/apps/details?id=angular.seed.advanced
+
 This is an **advanced** seed project for Angular apps based on [Minko Gechev's](https://github.com/mgechev) [angular-seed](https://github.com/mgechev/angular-seed) that expands on all of its great features to include core support for:
 
 #### Integration with:
@@ -149,6 +152,11 @@ Create AoT builds for deployment to App Store and Google Play.
 Android:   npm run build.android
 iOS:       gem install xcodeproj && npm run build.ios
 ```
+
+## Android app
+
+<a href="https://play.google.com/store/apps/details?id=angular.seed.advanced"><img src="https://raw.githubusercontent.com/marcelmaatkamp/angular-seed-advanced/master/.github/angular_seed_android.png" width="250" ></a><br />
+The Android application can be found on https://play.google.com/store/apps/details?id=angular.seed.advanced
 
 ## Desktop app
 
