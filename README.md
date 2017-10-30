@@ -155,8 +155,8 @@ iOS:       gem install xcodeproj && npm run build.ios
 
 ## Android app
 
-<a href="https://play.google.com/store/apps/details?id=angular.seed.advanced"><img src="https://raw.githubusercontent.com/marcelmaatkamp/angular-seed-advanced/master/.github/angular_seed_android.png" width="250" ></a><br />
 The Android application can be found on https://play.google.com/store/apps/details?id=angular.seed.advanced
+<a href="https://play.google.com/store/apps/details?id=angular.seed.advanced"><img src="https://raw.githubusercontent.com/marcelmaatkamp/angular-seed-advanced/master/.github/angular_seed_android.png" width="250" ></a>
 
 ## Desktop app
 
