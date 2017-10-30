@@ -64,7 +64,7 @@ It's built with a lot of the same structure found here so things work the same b
 * To run the NativeScript app (currently supports 3.x):
 
 ```
-npm install -g nativescript
+npm install nativescript -g --unsafe-perm
 ```
 
 ## How to start
