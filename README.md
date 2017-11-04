@@ -6,10 +6,12 @@
 [![Dependency Status](https://david-dm.org/NathanWalker/angular-seed-advanced.svg)](https://david-dm.org/NathanWalker/angular-seed-advanced)
 [![devDependency Status](https://david-dm.org/NathanWalker/angular-seed-advanced/dev-status.svg)](https://david-dm.org/NathanWalker/angular-seed-advanced#info=devDependencies)
 
+### Mobile app stores
+
 | OS | Link | 
 | -- | -- |
-| Android | <a href="https://play.google.com/store/apps/details?id=angular.seed.advanced"><img src="https://raw.githubusercontent.com/marcelmaatkamp/angular-seed-advanced/master/.github/angular_seed_android.png" width="250" ></a> |
-| iOS | https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1303747884&mt=8 | 
+| Android | <a href="https://play.google.com/store/apps/details?id=angular.seed.advanced"><img src="https://raw.githubusercontent.com/marcelmaatkamp/angular-seed-advanced/master/.github/angular_seed_android.png" width="250" ></a> <br /> https://play.google.com/store/apps/details?id=angular.seed.advanced|
+| iOS | <a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1303747884&mt=8"><img src="https://github.com/marcelmaatkamp/angular-seed-advanced/raw/master/.github/iOS_Appstore.png" width="250" ></a> <br />https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1303747884&mt=8| 
 
 This is an **advanced** seed project for Angular apps based on [Minko Gechev's](https://github.com/mgechev) [angular-seed](https://github.com/mgechev/angular-seed) that expands on all of its great features to include core support for:
 
@@ -155,10 +157,13 @@ Android:   npm run build.android
 iOS:       gem install xcodeproj && npm run build.ios
 ```
 
-## Android app
+## Mobile app stores
 
-The Android application can be found on https://play.google.com/store/apps/details?id=angular.seed.advanced
-<a href="https://play.google.com/store/apps/details?id=angular.seed.advanced"><img src="https://raw.githubusercontent.com/marcelmaatkamp/angular-seed-advanced/master/.github/angular_seed_android.png" width="250" ></a>
+| OS | Link | 
+| -- | -- |
+| Android | <a href="https://play.google.com/store/apps/details?id=angular.seed.advanced"><img src="https://raw.githubusercontent.com/marcelmaatkamp/angular-seed-advanced/master/.github/angular_seed_android.png" width="250" ></a> <br /> https://play.google.com/store/apps/details?id=angular.seed.advanced|
+| iOS | <a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1303747884&mt=8"><img src="https://github.com/marcelmaatkamp/angular-seed-advanced/raw/master/.github/iOS_Appstore.png" width="250" ></a> <br />https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1303747884&mt=8| 
+
 
 ## Desktop app
 
