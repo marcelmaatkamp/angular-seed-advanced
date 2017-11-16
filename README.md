@@ -1,3 +1,7 @@
+# NOTE:
+
+The next version with Angular5 support can be found on https://github.com/marcelmaatkamp/NxNativescriptWorkspace
+
 ![Angular Seed Advanced](https://cdn.filestackcontent.com/LSWpUEEGQiOdCpv9t6Ri?v=0)
 
 [![Angular Style Guide](https://mgechev.github.io/angular2-style-guide/images/badge.svg)](https://angular.io/styleguide)
